@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "title": "Full Body HIIT",
+        "duration": "30 mins",
+        "difficulty": "Intermediate",
+        "calories": 300,
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "exercises": [
+            {
+                "name": "Burpees",
+                "sets": 3,
+                "reps": "15"
+            },
+            {
+                "name": "Squat Jumps",
+                "sets": 3,
+                "reps": "20"
+            },
+            {
+                "name": "Pushups",
+                "sets": 3,
+                "reps": "15"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Core Crusher",
+        "duration": "15 mins",
+        "difficulty": "Beginner",
+        "calories": 150,
+        "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "exercises": [
+            {
+                "name": "Plank",
+                "sets": 3,
+                "duration": "45s"
+            },
+            {
+                "name": "Crunches",
+                "sets": 3,
+                "reps": "20"
+            },
+            {
+                "name": "Leg Raises",
+                "sets": 3,
+                "reps": "15"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Strength Training",
+        "duration": "45 mins",
+        "difficulty": "Advanced",
+        "calories": 400,
+        "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "exercises": [
+            {
+                "name": "Deadlifts",
+                "sets": 4,
+                "reps": "8"
+            },
+            {
+                "name": "Bench Press",
+                "sets": 4,
+                "reps": "10"
+            },
+            {
+                "name": "Pullups",
+                "sets": 3,
+                "reps": "Max"
+            }
+        ]
+    }
+]

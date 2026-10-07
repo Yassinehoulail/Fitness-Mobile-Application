@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "title": "Avocado Toast",
+        "calories": 350,
+        "image": "https://images.unsplash.com/photo-1588137372308-15f75323a6dd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "macros": {
+            "protein": "12g",
+            "carbs": "45g",
+            "fat": "20g"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Grilled Chicken Salad",
+        "calories": 400,
+        "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "macros": {
+            "protein": "40g",
+            "carbs": "15g",
+            "fat": "18g"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Oatmeal with Berries",
+        "calories": 300,
+        "image": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "macros": {
+            "protein": "10g",
+            "carbs": "55g",
+            "fat": "6g"
+        }
+    }
+]
